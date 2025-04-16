@@ -4,15 +4,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoojshete" alt="anoojshete" /></a> </p>
 
 - 🔭 I’m currently working on [MahaTourism](https://github.com/AnoojShete/MahaTourism)
-
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **anoojshete@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anoojshete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoojshete" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anoojshete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anoojshete" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/anoojshete/" target="blank"><img align="center" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
