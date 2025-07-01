@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anooj Shete</h1>
 <h3 align="center">Student at Fr. Conceicao Rodrigues Institute of Technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoojshete" alt="anoojshete" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoojshete" alt="anoojshete" /></a> </p> -->
 
 - 🔭 I’m currently working on [MahaTourism](https://github.com/AnoojShete/MahaTourism)
 - 📫 How to reach me **anoojshete@gmail.com**
@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoojshete&show_icons=true&locale=en" alt="anoojshete" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoojshete&" alt="anoojshete" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoojshete&" alt="anoojshete" /></p> -->
