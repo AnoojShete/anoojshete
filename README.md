@@ -1,11 +1,4 @@
 <h1 align="center">Hi, I'm Anooj Shete</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Competitive+Programming+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anoojshete&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -72,34 +65,21 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoojshete&theme=tokyonight&hide_border=true" width="48%" />
+<div align="center" style="display: flex;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="70%" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoojshete&theme=tokyo-night&hide_border=true" />
-</div>
-
-
-<div align="center">
-  <h3>Thanks for visiting! 😊</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <br/><br/>
-  <i>Happy Coding! 🚀</i>
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anoojshete&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
