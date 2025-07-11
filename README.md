@@ -73,10 +73,10 @@
 
 <div align="center" style="display: flex;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoojshete&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
   </div>
 </div>
 
