@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.leetcode.com/w1ckedw1zard" target="_blank">
+  <a href="https://www.leetcode.com/anoojshete" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/anoojshete/" target="_blank">
